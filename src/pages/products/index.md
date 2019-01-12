@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -77,13 +76,13 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the drinkkiiters
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '50'
+      plan: Large
+      price: '500'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
